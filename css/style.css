@@ -1,3 +1,12 @@
+body{
+  background-color: black;
+}
+
 .font {
   font-family: Montserrat;
+}
+
+.img-airport{
+  background-image: url("../img/irport_raw.png");
+  height: 100vh;
 }
